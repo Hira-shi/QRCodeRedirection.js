@@ -31,7 +31,7 @@ router.get('/', (req, res) => {
                 <title>Redirection...</title>
                 <script>
                     setTimeout(() => {
-                        window.location.href = "https://www.youtube.com";
+                        window.location.href = "https://www.amazon.com";
                     }, 5000);
                 </script>
             </head>
