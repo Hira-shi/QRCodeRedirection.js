@@ -1,4 +1,3 @@
-# Server for a QRCode redirection
 # Device-Based Redirection 📱💻
 
 This Express.js server redirects users based on their device type:
